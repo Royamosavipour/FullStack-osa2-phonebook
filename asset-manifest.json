@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FullStack-Osa2-unicafe/static/css/main.82b57218.css",
+    "main.js": "/FullStack-Osa2-unicafe/static/js/main.5abc8ae9.js",
+    "index.html": "/FullStack-Osa2-unicafe/index.html",
+    "main.82b57218.css.map": "/FullStack-Osa2-unicafe/static/css/main.82b57218.css.map",
+    "main.5abc8ae9.js.map": "/FullStack-Osa2-unicafe/static/js/main.5abc8ae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82b57218.css",
+    "static/js/main.5abc8ae9.js"
+  ]
+}
